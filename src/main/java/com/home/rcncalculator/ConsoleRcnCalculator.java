@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * {@code ConsoleRcnCalculator} is the Java Con5 sole wrapper for the RCN calculator.
+ * {@code ConsoleRcnCalculator} is the Java Console wrapper for the RCN calculator.
  */
 public class ConsoleRcnCalculator {
 
