@@ -1,5 +1,5 @@
 # What this project for?
-The Airwallex Interview project.
+The command line rcn calculator.
 
 # How to Run it?
 gradlew clean
