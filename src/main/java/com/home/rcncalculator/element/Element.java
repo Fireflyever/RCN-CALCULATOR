@@ -6,8 +6,8 @@ import java.util.List;
 
 
 /**
- * {@code Element} define the pure com.airwallex.
- * Element including numbers and operators under the RCN calculator.
+ * {@code Element} define the pure com.home.Element including numbers and operators
+ * under the RCN calculator.
  */
 public abstract class Element {
 

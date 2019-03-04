@@ -19,7 +19,7 @@ checkstyle {
 jar {
     archiveName = 'rcn-calculator.jar'
     manifest {
-        attributes("Main-Class": "com.airwallex.rcncalculator.ConsoleRcnCalculator",
+        attributes("Main-Class": "com.home.rcncalculator.ConsoleRcnCalculator",
                 "Created-By": "Lei Wang", "Implementation-Title": "AirWallex Test")
     }
 }

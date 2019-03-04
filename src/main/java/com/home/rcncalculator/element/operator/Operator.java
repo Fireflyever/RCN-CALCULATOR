@@ -36,7 +36,7 @@ public abstract class Operator extends Element {
     if (stack.size() < requireParams()) {
       throw new InsufficientParametersException(this);
     }
-    //2. do the execution and handle the com.airwallex.exception.
+    //2. do the execution and handle the com.home.exception.
     try {
       exec(stack);
     } catch (Exception err) {

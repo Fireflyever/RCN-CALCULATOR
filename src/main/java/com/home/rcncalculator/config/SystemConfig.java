@@ -4,7 +4,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * {@code SystemConfig} define the RCN calculator simple system com.airwallex.config items.
+ * {@code SystemConfig} define the RCN calculator simple system com.home.config items.
  */
 public class SystemConfig {
 
@@ -17,7 +17,7 @@ public class SystemConfig {
   public static int STORE_SCALE;
   public static int DISPLAY_SCALE;
 
-  //Load system com.airwallex.config from configuration file.
+  //Load system com.home.config from configuration file.
   static {
     try {
       Properties properties = new Properties();
